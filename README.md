@@ -44,6 +44,6 @@ Downloaded from the [Kaggle competition page](https://www.kaggle.com/c/house-pri
 - [x] Step 3 — Define the problem
 - [x] Step 4 — EDA
 - [x] Step 5 — Data processing & feature engineering
-- [ ] Step 6 — Build and train model
+- [x] Step 6 — Build and train model
 - [ ] Step 7 — Evaluate and interpret results
 - [ ] Step 8 — Finalize and publish
