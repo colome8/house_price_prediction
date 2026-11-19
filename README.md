@@ -42,7 +42,7 @@ Downloaded from the [Kaggle competition page](https://www.kaggle.com/c/house-pri
 - [x] Step 1 — Get the data
 - [x] Step 2 — Set up repository
 - [x] Step 3 — Define the problem
-- [ ] Step 4 — EDA
+- [x] Step 4 — EDA
 - [ ] Step 5 — Data processing & feature engineering
 - [ ] Step 6 — Build and train model
 - [ ] Step 7 — Evaluate and interpret results
