@@ -19,7 +19,8 @@ venv/
 data/
 data/processed/
 
-# Models
+# Models (regenerate with: python -m src.train)
+models/
 *.pkl
 *.joblib
 
